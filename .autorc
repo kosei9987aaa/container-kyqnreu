@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "kosei9987aaa",
+  "repo": "container-kyqnreu",
+  "name": "kosei9987aaa",
+  "email": "koseitaguchi6@gmail.com",
+}
